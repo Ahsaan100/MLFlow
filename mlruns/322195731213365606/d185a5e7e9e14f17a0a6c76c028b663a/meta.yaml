@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322195731213365606/d185a5e7e9e14f17a0a6c76c028b663a/artifacts
+end_time: 1730297948845
+entry_point_name: ''
+experiment_id: '322195731213365606'
+lifecycle_stage: active
+run_id: d185a5e7e9e14f17a0a6c76c028b663a
+run_name: indecisive-mare-408
+run_uuid: d185a5e7e9e14f17a0a6c76c028b663a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730297948289
+status: 3
+tags: []
+user_id: Ahsaan

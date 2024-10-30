@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322195731213365606/a9c8272018a24313aea6df0d753d4e29/artifacts
+end_time: 1730297984202
+entry_point_name: ''
+experiment_id: '322195731213365606'
+lifecycle_stage: active
+run_id: a9c8272018a24313aea6df0d753d4e29
+run_name: carefree-ram-856
+run_uuid: a9c8272018a24313aea6df0d753d4e29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730297983220
+status: 3
+tags: []
+user_id: Ahsaan

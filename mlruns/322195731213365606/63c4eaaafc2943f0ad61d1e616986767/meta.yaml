@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322195731213365606/63c4eaaafc2943f0ad61d1e616986767/artifacts
+end_time: 1730297963542
+entry_point_name: ''
+experiment_id: '322195731213365606'
+lifecycle_stage: active
+run_id: 63c4eaaafc2943f0ad61d1e616986767
+run_name: nebulous-hen-906
+run_uuid: 63c4eaaafc2943f0ad61d1e616986767
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730297962781
+status: 3
+tags: []
+user_id: Ahsaan

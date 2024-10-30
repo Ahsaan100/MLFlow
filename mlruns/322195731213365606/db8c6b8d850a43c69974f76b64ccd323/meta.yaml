@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322195731213365606/db8c6b8d850a43c69974f76b64ccd323/artifacts
+end_time: 1730297985215
+entry_point_name: ''
+experiment_id: '322195731213365606'
+lifecycle_stage: active
+run_id: db8c6b8d850a43c69974f76b64ccd323
+run_name: honorable-shad-867
+run_uuid: db8c6b8d850a43c69974f76b64ccd323
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730297984300
+status: 3
+tags: []
+user_id: Ahsaan

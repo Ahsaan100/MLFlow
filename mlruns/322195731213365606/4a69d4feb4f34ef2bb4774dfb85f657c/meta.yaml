@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322195731213365606/4a69d4feb4f34ef2bb4774dfb85f657c/artifacts
+end_time: 1730297988952
+entry_point_name: ''
+experiment_id: '322195731213365606'
+lifecycle_stage: active
+run_id: 4a69d4feb4f34ef2bb4774dfb85f657c
+run_name: monumental-ram-342
+run_uuid: 4a69d4feb4f34ef2bb4774dfb85f657c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730297988407
+status: 3
+tags: []
+user_id: Ahsaan

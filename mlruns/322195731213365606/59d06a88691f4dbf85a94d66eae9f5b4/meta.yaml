@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322195731213365606/59d06a88691f4dbf85a94d66eae9f5b4/artifacts
+end_time: 1730297959875
+entry_point_name: ''
+experiment_id: '322195731213365606'
+lifecycle_stage: active
+run_id: 59d06a88691f4dbf85a94d66eae9f5b4
+run_name: rare-bee-428
+run_uuid: 59d06a88691f4dbf85a94d66eae9f5b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730297959176
+status: 3
+tags: []
+user_id: Ahsaan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322195731213365606/366ce5d29f1147dc959535070fdd1ffe/artifacts
+end_time: 1730297947037
+entry_point_name: ''
+experiment_id: '322195731213365606'
+lifecycle_stage: active
+run_id: 366ce5d29f1147dc959535070fdd1ffe
+run_name: chill-moose-268
+run_uuid: 366ce5d29f1147dc959535070fdd1ffe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730297946315
+status: 3
+tags: []
+user_id: Ahsaan

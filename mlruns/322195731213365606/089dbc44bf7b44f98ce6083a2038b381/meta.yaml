@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322195731213365606/089dbc44bf7b44f98ce6083a2038b381/artifacts
+end_time: 1730297954818
+entry_point_name: ''
+experiment_id: '322195731213365606'
+lifecycle_stage: active
+run_id: 089dbc44bf7b44f98ce6083a2038b381
+run_name: fearless-smelt-91
+run_uuid: 089dbc44bf7b44f98ce6083a2038b381
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730297954052
+status: 3
+tags: []
+user_id: Ahsaan

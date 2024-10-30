@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/272173161183594727/545120afdd0f4627ab44057acde1a775/artifacts
+end_time: 1730291445639
+entry_point_name: ''
+experiment_id: '272173161183594727'
+lifecycle_stage: active
+run_id: 545120afdd0f4627ab44057acde1a775
+run_name: nebulous-fawn-478
+run_uuid: 545120afdd0f4627ab44057acde1a775
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730291422775
+status: 3
+tags: []
+user_id: Ahsaan

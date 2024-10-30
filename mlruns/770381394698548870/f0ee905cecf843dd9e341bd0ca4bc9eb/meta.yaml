@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/770381394698548870/f0ee905cecf843dd9e341bd0ca4bc9eb/artifacts
+end_time: 1729369644995
+entry_point_name: ''
+experiment_id: '770381394698548870'
+lifecycle_stage: active
+run_id: f0ee905cecf843dd9e341bd0ca4bc9eb
+run_name: sixth run
+run_uuid: f0ee905cecf843dd9e341bd0ca4bc9eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729369625013
+status: 3
+tags: []
+user_id: Ahsaan

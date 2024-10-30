@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322195731213365606/bfc469ecb5d84c878495349c8d2d34b2/artifacts
+end_time: 1730297960793
+entry_point_name: ''
+experiment_id: '322195731213365606'
+lifecycle_stage: active
+run_id: bfc469ecb5d84c878495349c8d2d34b2
+run_name: unruly-sponge-875
+run_uuid: bfc469ecb5d84c878495349c8d2d34b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730297959993
+status: 3
+tags: []
+user_id: Ahsaan

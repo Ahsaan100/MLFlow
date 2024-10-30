@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322195731213365606/5d6ad97406a244c88fa03030484181c1/artifacts
+end_time: 1730297965466
+entry_point_name: ''
+experiment_id: '322195731213365606'
+lifecycle_stage: active
+run_id: 5d6ad97406a244c88fa03030484181c1
+run_name: indecisive-fish-275
+run_uuid: 5d6ad97406a244c88fa03030484181c1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730297964592
+status: 3
+tags: []
+user_id: Ahsaan

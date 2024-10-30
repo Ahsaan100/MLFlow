@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/272173161183594727/894f874d12b248a2958c56c72c3cf647/artifacts
+end_time: 1730291445639
+entry_point_name: ''
+experiment_id: '272173161183594727'
+lifecycle_stage: active
+run_id: 894f874d12b248a2958c56c72c3cf647
+run_name: orderly-penguin-652
+run_uuid: 894f874d12b248a2958c56c72c3cf647
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730291422775
+status: 3
+tags: []
+user_id: Ahsaan

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322195731213365606/6227a150319f44a5a50f7980d32ad421/artifacts
+end_time: 1730297978267
+entry_point_name: ''
+experiment_id: '322195731213365606'
+lifecycle_stage: active
+run_id: 6227a150319f44a5a50f7980d32ad421
+run_name: traveling-wasp-981
+run_uuid: 6227a150319f44a5a50f7980d32ad421
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730297977171
+status: 3
+tags: []
+user_id: Ahsaan

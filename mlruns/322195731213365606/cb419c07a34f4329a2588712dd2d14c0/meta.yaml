@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322195731213365606/cb419c07a34f4329a2588712dd2d14c0/artifacts
+end_time: 1730297973549
+entry_point_name: ''
+experiment_id: '322195731213365606'
+lifecycle_stage: active
+run_id: cb419c07a34f4329a2588712dd2d14c0
+run_name: resilient-crow-655
+run_uuid: cb419c07a34f4329a2588712dd2d14c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730297972783
+status: 3
+tags: []
+user_id: Ahsaan

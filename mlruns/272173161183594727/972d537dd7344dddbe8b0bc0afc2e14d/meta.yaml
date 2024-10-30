@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/272173161183594727/972d537dd7344dddbe8b0bc0afc2e14d/artifacts
+end_time: 1730291445639
+entry_point_name: ''
+experiment_id: '272173161183594727'
+lifecycle_stage: active
+run_id: 972d537dd7344dddbe8b0bc0afc2e14d
+run_name: delicate-donkey-816
+run_uuid: 972d537dd7344dddbe8b0bc0afc2e14d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730291422775
+status: 3
+tags: []
+user_id: Ahsaan

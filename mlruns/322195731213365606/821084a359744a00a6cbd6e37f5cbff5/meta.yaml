@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/322195731213365606/821084a359744a00a6cbd6e37f5cbff5/artifacts
+end_time: 1730297964464
+entry_point_name: ''
+experiment_id: '322195731213365606'
+lifecycle_stage: active
+run_id: 821084a359744a00a6cbd6e37f5cbff5
+run_name: enthused-chimp-890
+run_uuid: 821084a359744a00a6cbd6e37f5cbff5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730297963714
+status: 3
+tags: []
+user_id: Ahsaan

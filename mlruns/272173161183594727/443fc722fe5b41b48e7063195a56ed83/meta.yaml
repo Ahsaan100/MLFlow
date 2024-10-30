@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/272173161183594727/443fc722fe5b41b48e7063195a56ed83/artifacts
+end_time: 1730291445639
+entry_point_name: ''
+experiment_id: '272173161183594727'
+lifecycle_stage: active
+run_id: 443fc722fe5b41b48e7063195a56ed83
+run_name: rogue-hawk-545
+run_uuid: 443fc722fe5b41b48e7063195a56ed83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730291422775
+status: 3
+tags: []
+user_id: Ahsaan
